@@ -8,7 +8,7 @@ For any further details, please refer to the paper.
 # Instructions
 Please run the command line below for detailed guide:
 ```
-pytohn exp.py --help 
+python exp.py --help 
 ```
 ## Examples:
 
